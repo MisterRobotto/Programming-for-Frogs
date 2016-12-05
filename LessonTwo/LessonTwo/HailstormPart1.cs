@@ -17,7 +17,7 @@ namespace LessonTwo
              * Today's assignment is very simple: calculate a new position for a hailstone in a storm.
              * If the argument "position" is even, set newPosition to it divided by two
              * If "position" is odd, set newPosition to it times 3 plus 1
-             * 
+             * ---
              * If you are stumped and need a hint, scroll down to the bottom, but only use it if you need to
              * */
 
